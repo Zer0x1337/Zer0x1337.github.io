@@ -17,6 +17,7 @@ html {
 }
 
 body {
+  color: var(--light-purple);
   background-image: url("https://media-s3-us-east-1.ceros.com/citywire/images/2020/10/27/a312127f31fd6c68a5743dae09b3a760/gettyimages-916492158-1.gif");
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
 }
