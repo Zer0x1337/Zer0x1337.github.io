@@ -10,12 +10,13 @@ html {
 
 :root {
   --light-purple: #8c00ff;
-  --dark-purple: #2c0033;
+  --dark-purple: #55009b;
   --dark-grey: #dadce0;
   --light-grey: #777; 
 }
 
 body {
+  background-image: url("http://www.kinabeats.com/images/bg.gif");
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
 }
 
