@@ -17,7 +17,7 @@ html {
 }
 
 body {
-  background-image: url("http://www.kinabeats.com/images/bg.gif");
+  background-image: url("https://media-s3-us-east-1.ceros.com/citywire/images/2020/10/27/a312127f31fd6c68a5743dae09b3a760/gettyimages-916492158-1.gif");
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
 }
 
@@ -32,7 +32,7 @@ a:hover {
 
 a.button {
   border: 2px solid #55009b;
-  color: var(--light-purple);
+  color: var(--jet-black);
   border-radius: 4px;
   padding: 6px 24px;
   font-size: 18px;
@@ -82,7 +82,7 @@ form {
   border-radius: 4px;
   border-color: var(--jet-black);
   background-color: transparent;
-  color: var(--light-purple);
+  color: var(--jet-black);
   font-size: 16px;
   line-height: 1.4;
   padding-left: 5px;
