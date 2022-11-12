@@ -22,7 +22,7 @@ import (
 var tpl = template.Must(template.ParseFiles("index.html"))
 
 func indexHandler(w http.ResponseWriter, r *http.Request) {
-	w.Write([]byte("<h1>ZER0x Server | In development.</h1>"))
+	w.Write([]byte("<h1>zer0xmediaserver | In development.</h1>"))
 	//w.Write([]byte("<h2></h2>"))
 	tpl.Execute(w, nil)
 }
