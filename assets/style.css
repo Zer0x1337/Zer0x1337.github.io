@@ -35,6 +35,7 @@ a:hover {
 a.button {
   border: 2px solid #55009b;
   color: var(--dark-purple);
+  background-color: #55009b;
   border-radius: 4px;
   padding: 6px 24px;
   font-size: 18px;
